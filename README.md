@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github](https://github.com/RadasinR/single-price-component-grid.git)
+- Live Site URL: [vercel](https://single-price-component-grid.vercel.app/)
 
 ## My process
 
@@ -60,9 +60,5 @@ Practice what i learned from Kevin Powels scrimba space tourism course. Practice
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@Radasin](https://www.frontendmentor.io/profile/Radasin)
 
